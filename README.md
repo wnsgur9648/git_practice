@@ -28,4 +28,9 @@ $ git checkout heko
 Switched to branch 'heko'                                                                                                             
 A       README.md                                                                                                                     
 student@M70213 MINGW64 ~/git_practice (heko)                                                                                          
-$           
+$   
+123
+123
+444
+
+55531235154
